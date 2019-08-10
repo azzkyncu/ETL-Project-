@@ -1,5 +1,6 @@
 # ETL Project Report (# of gun owners and votes in last 2016 election) 
-Image.jpeg
+![Screenshot](screenshot.jpeg)
+
 
 ## Project Proposal
 
