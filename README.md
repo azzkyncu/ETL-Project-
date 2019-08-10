@@ -1,4 +1,4 @@
-# ETL Project Report (# of gun owners and votes in last 2016 election) 
+# ETL Project Report (# of gun owners and votes in 2016 election) 
 ![Screenshot](screenshot.jpeg)
 
 
