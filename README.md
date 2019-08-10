@@ -14,7 +14,7 @@ In this project, we used two sources of data. We used the following sites to use
 
 * https://www.thoughtco.com/ (converted to CSV)
 
-* https://gist.github.com/mshafrir/2646763
+* https://gist.github.com/mshafrir/2646763 (CSV)
 
 
 ## Data Cleanup & Analysis
