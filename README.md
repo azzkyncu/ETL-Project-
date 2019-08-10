@@ -1,6 +1,5 @@
 # ETL Project Report (# of gun owners and votes in last 2016 election) 
-
-/Users/azizkoyuncu/Desktop/Image.jpeg
+Image.jpeg
 
 ## Project Proposal
 
