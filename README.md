@@ -1,5 +1,6 @@
 # ETL Project Report (# of gun owners and votes in 2016 election) 
-![Screenshot](screenshot.jpeg)
+
+https://github.com/azzkyncu/ETL-Project-/blob/master/Images/Image.jpeg
 
 
 ## Project Proposal
